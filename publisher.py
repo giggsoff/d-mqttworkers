@@ -14,7 +14,7 @@ def main():
 		payload='message1',
 		qos=2,
 		hostname='127.0.0.1',
-		port=1883,
+		port=1884,
 		client_id='client2',
 		#auth={
 		#	'username': '[username]',
